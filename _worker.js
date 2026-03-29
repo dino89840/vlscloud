@@ -6,7 +6,7 @@
 let userID = '31d1f008-b9ee-4234-ad81-d0b65971a386';
 let proxyIP = '';
 let credit = 'CF-Pages-ModsBots';
-let dohURL = 'https://1.1.1.1/dns-query';
+let dohURL = 'https://8.8.4.4/dns-query';
 
 if (!isValidUUID(userID)) {
   throw new Error('uuid is not valid');
