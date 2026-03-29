@@ -1,7 +1,0 @@
-name = "vless-pages"
-compatibility_date = "2024-01-01"
-
-[vars]
-UUID = "31d1f008-b9ee-4234-ad81-d0b65971a386"
-PROXYIP = ""
-CREDIT = "CF-Pages-ModsBots"
